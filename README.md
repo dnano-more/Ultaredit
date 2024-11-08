@@ -1,3 +1,1 @@
-I created this clone for practice of my HTML and CSS learnings.
-I added one media query into this.
-And i made this layout responsive for max-width of 450px which is mean for mobile screen.
+Designed the Ultaredit Website Clone as a personal project to apply my HTML and CSS knowledge, achieving a fully responsive layout optimized for screens up to 450px.
